@@ -1,6 +1,6 @@
 # docker-ffmpeg-nvidia
 
-This is based on the nVidia video-codec-sdk to implement gpu transcoding (i.e., nvenc and cuvid)
+This is based on nvidia's video-codec-sdk to implement gpu transcoding (i.e., nvenc and cuvid)
 
 #### Usage:
 Transcode with hardware encode of video, and copying of audio and subtitle streams:
